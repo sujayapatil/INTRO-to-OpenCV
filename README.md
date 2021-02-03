@@ -1,4 +1,4 @@
-# INTRO-to-OpenCV
+# OpenCV Tutorial
 
 # Read,write and save Image Using OpenCV In Python
 Syntax: cv2.imread(path, flag)
